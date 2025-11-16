@@ -1,0 +1,42 @@
+# Diretórios comuns a projetos Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Dados pesados e temporários
+data/*
+!data/README.md
+
+# Logs
+*.log
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Configs locais
+*.env
+*.ini
+*.cfg
+
+# Diretórios de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos do VSCode / IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros
+*.db
+*.csv
