@@ -37,6 +37,5 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Outros
+# Bancos de dados
 *.db
-*.csv
